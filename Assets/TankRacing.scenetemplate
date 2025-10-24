@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: TankRacing
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 2a334138a2ba04f5aa973bdfc10cd12d, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 4890085278179872738, guid: 70fa669b1f3bc8f43ad1ab15cad0d369, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 4dde4063ce427441e896259644113e91, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: -927199367670048503, guid: 5263a76370a7b435ca5044a8d04b2e4b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 0953770822730481798c3f71b6a9813f, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 62f93b80049dc4a44a23cc414cbf0e5f, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 570f473999d5a4216b1f1f0b8ea6be57, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 66f7afd8c186a468ca9f4daf621cdaf9, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: b0506a51a85354683b5f04c0dbc0b550, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: -927199367670048503, guid: 35c1c886898f94ca0833cccc2e3388a4, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
